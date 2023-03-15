@@ -47,7 +47,7 @@ We're excited to welcome contributions from our community! To contribute to AI I
 
 ## Community and Support
 
-Join our thriving community by participating in discussions, sharing your experiences, and seeking help from fellow AI enthusiasts. Check out our [community forum](https://ai-innovators-forum.example.com) and join our [Discord server](https://discord.gg/example) to connect with like-minded individuals!
+Join our thriving community by participating in discussions, sharing your experiences, and seeking help from fellow AI enthusiasts. Check out our [community forum](https://discord.gg/DDJ6ATTT) and join our [Discord server](https://discord.gg/DDJ6ATTT) to connect with like-minded individuals!
 
 ## Code of Conduct
 
